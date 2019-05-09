@@ -2,7 +2,7 @@
 It's a website developed by the team of four people that enables any user to upload, download and store any document upto 10MB of size on the server. Here, the size is configurable. 
 
 # Technologies Used 			
-UI Designing	Html 	Css
+UI Designing	Html 	Css <br />
 UI Side Scripting 	javascript	
 Backend	PHP	
 Database 	MySQL	
