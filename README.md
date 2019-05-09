@@ -22,10 +22,14 @@ It's a website developed by the team of four people that enables any user to upl
 
 # How to run this website on wamp server.
 step 1: setup wamp server  <br/>
-step 2: copy the whole project folder into the server directory. i.e. C:/wamp64/www <br/>
-step 3: now make sure that the server is running by typing localhost on the browser. <br/>
-### step 4: type localhost:{apache-portno(default-80)}/{name of the project folder} <br/>
-step 5: now you will see the index.php web page. <br/>
+step 2: copy the whole project folder by extracting from zip file(personalisedstoragesystem.7z) into the server directory. i.e. C:/wamp64/www <br/>
+step 3: now open phpmyadmin from server webpage (i.e. localhost:80 on browser) and enter the username and password. <br/>
+step 4: create a new database named "storagesystem" with default values. <br/>
+step 5: go to storagesytem database and click on the sql tab, now copy the content from .sql file and paste it. run it using ctrl+enter. <br/>
+step 6: now you will see the two tables i.e. drive and user created under storagesystem database. <br/>
+step 7: now make sure that the server is running by typing localhost on the browser. <br/>
+### step 8: type localhost:{apache-portno(default-80)}/{name of the project folder} <br/>
+step 9: now you will see the index.php web page. <br/>
 
 # Troubleshooting 
 Refer 
