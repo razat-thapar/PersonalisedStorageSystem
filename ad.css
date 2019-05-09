@@ -1,0 +1,123 @@
+body {
+    background-image: url("images/store.jpg");
+    text-align: center;
+    background-repeat: round;
+    font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+}
+
+.logout {
+    padding: 0 9px 0 9px;
+    float: right;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: -5px;
+    border-radius: 4px;
+}
+
+.formm {
+    top: 12px;
+    box-shadow: 5px 8px 4px #358cc2;
+    border-radius: 15px;
+    padding-top: 25px;
+    margin: auto;
+    width: 370px;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.70);
+}
+
+input {
+    border-radius: 8px;
+}
+
+
+
+.cen {
+    margin: auto;
+    width: 80%;
+    height: auto;
+}
+
+.header {
+    margin-bottom: 15px;
+    background-size: cover;
+    height: 150PX;
+    text-align: center;
+}
+
+h1 {
+    font-size: 55px;
+    padding: 45px;
+}
+
+.header img {
+    width: auto;
+    height: inherit;
+    border-radius: 10px;
+    float: left;
+}
+
+.index {
+    border-radius: 9px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    height: 49px;
+    background-color: white;
+    color: black;
+}
+
+.index ul {
+    padding: 8px 0 0 0;
+    cursor: pointer;
+}
+
+.index li {
+    margin-left: 90px;
+    display: inline;
+}
+
+.cat, .cat2 {
+    border-radius: 10px;
+    float: left;
+    width: 19.5%;
+    min-height: 500px;
+    height: 400px;
+    background-color:Red;
+}
+.cat2 {
+    overflow-y: auto;
+
+}
+
+.cat div {
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    float: left;
+    margin-top: 15px;
+    height: 30px;
+    width: 80%;
+    background-color: #fefad8;
+    border-radius: 19px;
+}
+.cat div:hover {
+    background-color: #348ebe;
+}
+.cat2 h2, .cat h2 {
+    background-color: #00326ab2;
+    color: white;
+}
+.cat2 table {
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.70);
+    width: 100%;
+    margin: auto;
+}
+tr:nth-child(even) {
+    background-color: #8fb7e7;
+}
+
+.changepwd{
+  background-color: red;
+}
