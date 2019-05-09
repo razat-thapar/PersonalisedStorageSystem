@@ -2,11 +2,11 @@
 It's a website developed by the team of four people that enables any user to upload, download and store any document upto 10MB of size on the server. Here, the size is configurable. 
 
 # Technologies Used 			
-* *UI Designing	Html 	Css* <br />
-* *UI Side Scripting 	javascript*	<br/>
-* *Backend	PHP*	<br/>
-* *Database 	MySQL*	<br/>
-* *Application Server	Apache Tomcat*	
+* *UI Designing*	**Html 	Css** <br />
+* *UI Side Scripting* 	**javascript**	<br/>
+* *Backend*	**PHP**	<br/>
+* *Database* 	**MySQL**	<br/>
+* *Application Server*	**Apache Tomcat**	
 
 # User Requirements	Status
 1# User should be able to register.	done <br/>
