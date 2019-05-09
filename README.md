@@ -24,12 +24,12 @@ Application Server	Apache Tomcat
 step 1: setup wamp server  <br/>
 step 2: copy the whole project folder into the server directory. i.e. C:/wamp64/www <br/>
 step 3: now make sure that the server is running by typing localhost on the browser. <br/>
-# step 4: type localhost:{apache-portno(default-80)}/{name of the project folder} <br/>
+### step 4: type localhost:{apache-portno(default-80)}/{name of the project folder} <br/>
 step 5: now you will see the index.php web page. <br/>
 
 # Troubleshooting 
 Refer 
-1. readme.txt  ---- contains all that you need to know like setting up wamp server, mysql troubleshooting, references used. <br/>
-2. documentation-personalisedStorageSystem.xlsx 
+### 1. readme.txt  ---- contains all that you need to know like setting up wamp server, mysql troubleshooting, references used. <br/>
+### 2. documentation-personalisedStorageSystem.xlsx 
 
 
