@@ -36,4 +36,9 @@ Refer
 ### 1. readme.txt  ---- contains all that you need to know like setting up wamp server, mysql troubleshooting, references used. <br/>
 ### 2. documentation-personalisedStorageSystem.xlsx 
 
+# Credits 
+Razat Aggarwal - aggarwal091196@gmail.com<br/>
+Arshiya Chander -  <br/>
+Harnoor kaler -<br/>
+ketan goel - <br/>
 
