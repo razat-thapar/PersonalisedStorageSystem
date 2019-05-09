@@ -37,8 +37,8 @@ Refer
 ### 2. documentation-personalisedStorageSystem.xlsx 
 
 # Credits 
-Razat Aggarwal - aggarwal091196@gmail.com<br/>
-Arshiya Chander -  <br/>
-Harnoor kaler -<br/>
-ketan goel - <br/>
+Razat Aggarwal - raggarwal_be15@thapar.edu <br/>
+Arshiya Chander - arshiyachander08@gmail.com <br/>
+Harnoor kaler -hskaler98@gmail.com<br/>
+ketan goel - goel97ketan@gmail.com<br/>
 
